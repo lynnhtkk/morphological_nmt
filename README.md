@@ -2,7 +2,7 @@
 
 Finnish-to-English Neural Machine Translation
 
-**Team Members:** Çağla Ece Azizoğlu, Aqil Ahmed Abdul Khaliq, Nyi Nyi Linn Htet
+**Team Members:** [Çağla Ece Azizoğlu](https://github.com/cagla326), [Aqil Ahmed Abdul Khaliq](https://github.com/aqat123), [Nyi Nyi Linn Htet](https://github.com/lynnhtkk)
 
 ---
 
@@ -50,8 +50,8 @@ Unsupervised morphological segmentation applied to Finnish text, with BPE applie
 |  | BLEU Score |  | COMET Score |  |
 |---|:---:|:---:|:---:|:---:|
 | Vocabulary Size | Baseline | Morfessor | Baseline | Morfessor |
-| 10k | 13.37 | 13.53 | 0.7003 | 0.7049 |
-| 20k | 14.05 | 13.92 | 0.7088 | 0.7117 |
+| 10k | 13.37 | **13.53** | 0.7003 | **0.7049** |
+| 20k | **14.05** | 13.92 | 0.7088 | **0.7117** |
 
 ### Key Findings
 
@@ -65,14 +65,14 @@ Morfessor demonstrates superior semantic accuracy (COMET scores) across both voc
 
 ## References
 
-- **WMT18 Shared Task Data**: https://www.statmt.org/wmt18/translation-task.html
+- [**WMT18 Shared Task Data**:](https://www.statmt.org/wmt18/translation-task.html)
 
-- **Fairseq (Original)**: https://github.com/facebookresearch/fairseq
+- [**Fairseq (Original)**:](https://github.com/facebookresearch/fairseq)
 
-- **Fairseq (Updated Compatible Version)**: https://github.com/One-sixth/fairseq (used in this work due to compatibility with newer dependency versions)
+- [**Fairseq (Updated Compatible Version)**:](https://github.com/One-sixth/fairseq) (used in this work due to compatibility with newer dependency versions)
 
-- **subword-nmt (BPE Implementation)**: https://github.com/rsennrich/subword-nmt
+- [**subword-nmt (BPE Implementation)**:](https://github.com/rsennrich/subword-nmt)
 
-- **mosesdecoder**: https://github.com/moses-smt/mosesdecoder
+- [**mosesdecoder**:](https://github.com/moses-smt/mosesdecoder)
 
 
