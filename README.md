@@ -65,14 +65,14 @@ Morfessor demonstrates superior semantic accuracy (COMET scores) across both voc
 
 ## References
 
-- [**WMT18 Shared Task Data**:](https://www.statmt.org/wmt18/translation-task.html)
+- [**WMT18 Shared Task Data**](https://www.statmt.org/wmt18/translation-task.html)
 
-- [**Fairseq (Original)**:](https://github.com/facebookresearch/fairseq)
+- [**Fairseq (Original)**](https://github.com/facebookresearch/fairseq)
 
-- [**Fairseq (Updated Compatible Version)**:](https://github.com/One-sixth/fairseq) (used in this work due to compatibility with newer dependency versions)
+- [**Fairseq (Updated Compatible Version)**](https://github.com/One-sixth/fairseq) (used in this work due to compatibility with newer dependency versions)
 
-- [**subword-nmt (BPE Implementation)**:](https://github.com/rsennrich/subword-nmt)
+- [**subword-nmt (BPE Implementation)**](https://github.com/rsennrich/subword-nmt)
 
-- [**mosesdecoder**:](https://github.com/moses-smt/mosesdecoder)
+- [**Morfessor 2.0**](https://github.com/aalto-speech/morfessor)
 
-
+- [**mosesdecoder**](https://github.com/moses-smt/mosesdecoder)
